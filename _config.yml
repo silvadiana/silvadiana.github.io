@@ -14,9 +14,9 @@ timezone: America/Lima
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Bitácora de Pentesting # the main title
 
-tagline: Bitacora de Pentesting # it will display as the subtitle
+tagline: Silva Diana | Cibersecutity # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://silvadiana.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: "https://github.com/silvadiana" # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
