@@ -26,20 +26,16 @@ description: >- # used by seo meta and the atom feed
 url: "https://silvadiana.github.io"
 
 github:
-  username: "https://github.com/silvadiana" # change to your GitHub username
-
-twitter:
-  username: twitter_username # change to your Twitter username
+  username: "silvadiana" # change to your GitHub username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: Diana Silva
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://github.com/silvadiana # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -88,7 +84,8 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode:  [dark]
+#theme_mode:  #[light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
@@ -98,7 +95,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/images/images.png
+avatar: /assets/images/1683319177870.jpeg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
